@@ -13,5 +13,6 @@ public class throwdemo {
             throw new ArithmeticException("Cannot divide by zero");
         return div/divisor;
         // throws will always be used in checked exception
+        // throws deligetae exception to colar or prevoius mehtod
     }
 }
